@@ -32,8 +32,8 @@ public class SMSUtils {
 
 		// Configure Credentials authentication information, including ak, secret, token
 		StaticCredentialProvider provider = StaticCredentialProvider.create(Credential.builder()
-				.accessKeyId("LTAI5tMEzjYaxunV8PcpK7Mn")
-				.accessKeySecret("ZDGeQZfr7DXwjmEHdACMKeneRxyvbD")
+				.accessKeyId("")
+				.accessKeySecret("")
 				//.securityToken("<your-token>") // use STS token
 				.build());
 
